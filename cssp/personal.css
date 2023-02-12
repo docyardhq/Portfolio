@@ -293,7 +293,7 @@ h4{
 }
 .bar2{
     margin-left: 36%;
-    width: 350px;
+    width: 400px;
     height: 20px;
     border: 1px solid black;
     border-radius: 30px;
@@ -309,7 +309,7 @@ h4{
        width: 0px;
     }
     to{
-        width: 350px;
+        width: 400px;
     }
 }
 .bar3{
