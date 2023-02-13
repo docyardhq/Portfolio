@@ -74,7 +74,7 @@ body{
         filter: opacity(1);
     }
     50%{
-        filter: opacity(1);
+        filter: opacity(0);
     }
     70%{
         filter: opacity(1);
@@ -125,6 +125,9 @@ body{
         position: relative;
         font-size: 20px;
         margin-left: 100px;
+    }
+    .lord_logo{
+        visibility: hidden;
     }
 }
 
